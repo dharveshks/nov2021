@@ -1,0 +1,115 @@
+
+3480
+
+
+
+
+
+
+
+
+
+2109617
+
+2111720  
+
+visctmct
+
+J7&dVzQj
+
+PO 4000164635
+
+Start datee 1 st may - 30 th june
+
+dharvesh.211720@infosys.com
+
+
+
+http://www.quiz-maker.com/Q62OZFNYL
+
+SQL : Structured Query Languages
+
+
+It is not case sensitive
+One or multiple lines type command
+String is alone case sensitive
+
+Data:
+
+Collection of information
+
+Database :
+
+Storage of information
+
+Database name : Oracle
+
+
+Communicating language : SQL /PLSQL
+
+Tools : isqlplus, sqlplus,toad, sqldeveloper
+
+Table :rows and columns
+
+clause : heading / paragragh
+
+select followed by column name
+from followed by table name
+where followed by condition
+order by followed by column name followed by asc/ desc
+
+* all columns
+
+having
+
+Logical Operator (to satisfy the condition (T/F)
+AND - both conditions should satisfy
+OR - anyone conditions should satisfy
+
+Column alias (as) temporary column name change
+AS BEFORE COLUMN NAME
+AS AFTER COLUMN ALIAS NAME
+
+CONCATENATION (||) TO JOIN TWO VALUES
+
+Duplicate Values (unique / distinct) 
+
+use to eliminate duplicate values
+
+Null : it is unassigned/ undefined value
+
+Conditions:(-)(is/is not)
+null is not equal to null
+null is not equal to zero
+null is not equal to space
+
+USER CREATED TABLE (USER_TABLES)
+
+
+
+
+1)Selenium basics: http://bit.ly/2XtOt1F
+2)Selenium Advanced: http://bit.ly/2WYieZe
+3)TestNG Absolute Beginner Guide: http://bit.ly/2N6xgaM
+4)Data-driven framework: http://bit.ly/2WVjSFT
+5)Page Object Model: http://bit.ly/2IAXJZR
+6)How to write XPath on our own: http://bit.ly/2KwMLql
+7)Must know Java concepts for Selenium: http://bit.ly/31Ro7G8
+8)Selenium Interview Questions: http://bit.ly/2N6xu1F
+9)Java for Selenium Automation: http://bit.ly/2IylOAh
+10)Maven beginner guide: http://bit.ly/2Rsigm0
+11)Github Absolute beginner Guide: http://bit.ly/2Kxdzqj
+12)REST Web services beginner guide: http://bit.ly/2N69rQq
+13)Cucumber absolute beginner guide: http://bit.ly/2X0lSBB
+14)Acceptance Testing (Fitnesse) beginner guide: http://bit.ly/2Y6oE55
+15)Jenkins beginner guide: http://bit.ly/2X39fGb
+16) Jmeter beginner tutorials: https://bit.ly/32achqW
+
+
+
+
+
+
+
+
+
